@@ -1,0 +1,5 @@
+Android Test
+------------
+
+Just a quick app I whipped up to get a handle on the new hotness in Android development, as of the end of 2017, SDK 27. It uses Dagger for dependency injection, a RecyclerView for both a scrolling list and a paged side-scroll viewer, plus some Java 8 goodies crammed in like lambdas and CompletableFutures. It should be a pretty good bootstrap, and it took me a bit of work to figure this all out, so I figured I'd put it up here.
+
